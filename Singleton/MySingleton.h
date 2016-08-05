@@ -2,7 +2,7 @@
 //  MySingleton.h
 //  Singleton
 //
-//  Created by 吴青 on 15/12/25.
+//  Created by 魏琦 on 15/12/25.
 //  Copyright © 2015年 com.weiqi.www. All rights reserved.
 //
 
